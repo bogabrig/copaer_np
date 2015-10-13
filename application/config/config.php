@@ -472,7 +472,9 @@ $config['compress_output'] = FALSE;
 | helper' page of the user guide for information regarding date handling.
 |
 */
-$config['time_reference'] = 'local';
+//$config['time_reference'] = 'UM3';
+$config['time_reference'] = 'gmt';
+date_default_timezone_set('America/Argentina/Buenos_Aires');
 
 /*
 |--------------------------------------------------------------------------
