@@ -5,16 +5,16 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 /**
  * GratiaCms Helper
  *
- * @package         GRATICMS
+ * @package         COPAER_NP
  * @subpackage      Helpers
  * @category        Helpers
- * @author          tutorialesvirtuales.com
- * @author          Roosevelt Guinand
- * @link            http://tutorialesvirtuales.com
+ * @author          Gabriel Garcia
+ * @author          Gabriel Garcia
+ * @link            http://gabrielgarcia.com.ar
  * @version         Current v1.0.0 
- * @copyright       Copyright (c) 2010 - 2015 tutorialesvirtuales
+ * @copyright       Gabriel Garcia
  * @license         MIT
- * @since           13/07/2015
+ * @since           12/10/2015
  */
 
 /**
